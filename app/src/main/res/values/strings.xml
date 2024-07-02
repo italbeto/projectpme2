@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba2PME</string>
+    <string name="title_activity_agregar_producto">AgregarProductoActivity</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <string name="btnguardar">Guardar</string>
+    <string name="txtIngresarProducto">Nombre del Producto</string>
+    <string name="txtNoProductos">No hay productos que mostrar</string>
+
+</resources>

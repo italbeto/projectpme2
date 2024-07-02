@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba2PME</string>
+    <string name="title_activity_agregar_producto">AgregarProductoActivity</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <string name="btnguardar">Save</string>
+    <string name="txtIngresarProducto">Product Name</string>
+    <string name="txtNoProductos">There are no products to show</string>
+
+</resources>
